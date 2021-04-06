@@ -3,5 +3,5 @@ Bu macera oyunu OOP mantigini kavramak adina calisilmis bir programdir. Sinif ve
 
 
 ## Oyunun Amaci
-Üc farkli savas bölgesindeki cesitli tehlikeleri etkisiz hale getirerek bölgeye ait özel malzemeleri toplamak. 
+###### Üc farkli savas bölgesindeki cesitli tehlikeleri etkisiz hale getirerek bölgeye ait özel malzemeleri toplamak. 
 Eger üc özel malzemeyi de toplarsak oyunu kazanmis oluruz. 
