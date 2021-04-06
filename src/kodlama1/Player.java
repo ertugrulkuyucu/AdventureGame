@@ -23,7 +23,7 @@ public class Player {
 		/**
 		 * NOT : Ilk önce set metodlariyla hepsini düzenledik caselerin içinde sonradan
 		 * kodu daha aza indirmek için bir fonksiyon yardimiyla defineSelectChar in
-		 * içinde tek satirda ytapmýþ olduk.
+		 * içinde tek satirda yapmis olduk.
 		 */
 
 		switch (charList()) {
@@ -31,10 +31,10 @@ public class Player {
 			defineSelectChar("Samuray", 5, 21, 15);
 			break;
 		case 2:
-			defineSelectChar("Okcu", 20, 18, 20);
+			defineSelectChar("Okcu", 7, 18, 20);
 			break;
-		// normalde üç karakter için üç case yapýlacaktý ve default için tekrardan
-		// yazýlmasý gerekince ben direkt 3 yerine defaulltu yazdým.
+		// normalde üç karakter için üç case yapilacakti ve default için tekrardan
+		// yazilmasi gerekince ben direkt 3 yerine defaultu yazdim.
 		default:
 			defineSelectChar("Sovalye", 8, 24, 5);
 			break;
